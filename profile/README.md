@@ -1,7 +1,7 @@
 # Toad for MSSQL Optimization Suite
 
 [![Version](https://img.shields.io/badge/version-8.0-blue.svg)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXDEVpgaVTPUbjjyAeTWfPV42vZkFK02WVmg&s)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-green.svg)](## 🛠 System Requirements)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-green.svg)](#System-Requirements)
 [![License](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://2.imimg.com/data2/EI/DW/MY-4050763/quest-toad.jpg)
 
 **Toad for MSSQL Optimization** is a comprehensive solution designed for database administrators and developers seeking a robust **MSSQL Query Analyzer Tool**. Serving as a powerful **Toad Database IDE MSSQL**, this platform provides an intuitive interface for managing, developing, and optimizing SQL Server instances. As a leading **SQL Server Management Studio Alternative**, it combines performance tuning, automation, and schema comparison in one seamless environment.
